@@ -1,7 +1,9 @@
 ## Hi there 👋 I'm [Felicity](https://aporialiao.github.io/)
 
 🚀 About Me
+
 💻 Software Engineer at Meta
+
 🌍 Based in San Francisco
 
 🔭 Presently 
