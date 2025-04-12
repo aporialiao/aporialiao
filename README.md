@@ -1,6 +1,6 @@
 ### Hi there I'm [Felicity](https://aporialiao.github.io/)
 
-Software Engineer at Meta. Menlo Park & San Francisco
+Software Engineer at Meta, I am based in San Francisco.
 
 ### Presently 
 * Exploring large-scale recommendation systems (RecSys) at Meta. I engineer for the TorchRec team, which is the open-source PyTorch domain library providing sparsity and parallism tools to optimize RecSys models on a distributed environment.
