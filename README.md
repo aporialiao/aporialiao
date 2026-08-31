@@ -1,4 +1,4 @@
-Hi there I'm [Felicity](https://aporialiao.github.io/). I am based in San Francisco.
+Hi there I'm [Felicity](https://felicityliao.com/). I am based in San Francisco.
 * Presently Exploring large-scale recommendation systems (RecSys) at Meta. I engineer for the TorchRec team, which is the open-source PyTorch domain library providing sparsity and parallism tools to optimize RecSys models on a distributed environment.
 * Previously Dove into the Metaverse at Meta Reality Labs, engineering the Avatars SDK providing embodiment and self-representation for users across 3D and 2D platforms.
 * Completed undergrad at UC Berkeley in Computer Science.
